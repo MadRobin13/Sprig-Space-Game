@@ -1,5 +1,10 @@
 /*
+@title: Space Game
+@author: Abhimanyu Chaudhary
+@addedOn: 2024-08-04
+*/
 
+/*
 Sprig Space Game:
 
 Press a and d to move the spaceship left and right to avoid the missiles!
@@ -12,10 +17,6 @@ Buttons:
  - i: Enable difficult mode and disable helipads.
  - k: Disable difficult mode and enable helipads.
  - w: Restart the game once you inevitably lose.
-
-@title: Space Game
-@author: Abhimanyu Chaudhary
-@addedOn: 2024-08-04
 */
 
 const player = "p"
